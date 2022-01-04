@@ -59,7 +59,7 @@ made2016:
     <projectUrl>https://www.microsoft.com/en-us/download/confirmation.aspx?id=54920&amp;6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1</projectUrl>
     <packageSourceUrl>https://github.com/russellhoff/made2016</packageSourceUrl>
     <docsUrl>https://www.microsoft.com/en-us/download/confirmation.aspx?id=54920&amp;6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1</docsUrl>
-    <iconUrl>https://rawcdn.githack.com/marcinbojko/made2010/7578dd4416b5dcb76f1edb6a970333340441b184/icons/webdeploy.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/russellhoff/made2016/master/icons/webdeploy.png</iconUrl>
     <!--<projectSourceUrl></projectSourceUrl>
     <mailingListUrl></mailingListUrl>-->
     <tags>microsoft access database engine</tags>
